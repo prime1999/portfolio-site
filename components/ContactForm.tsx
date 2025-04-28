@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const ContactForm = () => {
 	return (
-		<section className="my-16">
+		<section id="contact" className="my-16">
 			<h4 className="text-center text-xl text-darkGray font-semibold">
 				Send a Message
 			</h4>

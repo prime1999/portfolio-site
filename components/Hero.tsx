@@ -12,7 +12,7 @@ const Hero = () => {
 		alert("✅ Copied!");
 	};
 	return (
-		<section className="relative w-[100vw] pb-12 overflow-hidden">
+		<section id="home" className="relative w-[100vw] pb-12 overflow-hidden">
 			{/* Grid background */}
 			<div className="absolute inset-0 z-0 grid" />
 
